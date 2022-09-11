@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @serpo09
+- 👋 Hi, I’m Serpo Lama and im a FullStack Web Developer.
+Language that I Know are: HTML,CSS,Javscript,,Jquery,React,MongoDb,Node.js.
 - 👀 I’m interested in Building Wonderfull Friendly Website
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Redux.
 - 📫 How to reach me: Email- serpolama7@gmail.com
 
 <!---
