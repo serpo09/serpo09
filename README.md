@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Serpo Lama and Im a FullStack Web Developer.
-Language that I Know are: HTML,CSS,Javscript,Jquery,React,MongoDb,Node.js.
+Language that I Know are: Angular, HTML, CSS, Javscript, Jquery, React, MongoDb, Node.js, MySQL, Web3, Solidity, AWS, Firebase Hosting.
 - 👀 I’m interested in Building Wonderfull Friendly Website
-- 🌱 I’m currently learning Redux.
 - 📫 How to reach me: Email- serpolama7@gmail.com
 
 <!---
