@@ -24,7 +24,7 @@ serpolama.com
   <img src="https://img.shields.io/badge/Email-Hire%20Me-000000?style=flat&logo=gmail&logoColor=white&labelColor=000000" />
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=serpo09&color=000000&style=flat&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=serpolama&color=000000&style=flat&label=Profile+Views" />
 
 </div>
 
@@ -276,9 +276,9 @@ I operate at the intersection of product intuition and engineering discipline �
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=serpo09&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=ffffff&ring_color=ffffff&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=serpolama&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=ffffff&ring_color=ffffff&count_private=true" />
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serpo09&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serpolama&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&langs_count=8" />
 
 </div>
 
@@ -286,7 +286,7 @@ I operate at the intersection of product intuition and engineering discipline �
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=serpo09&theme=github-dark-blue&hide_border=true&background=0d0d0d&stroke=1a1a1a&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=serpolama&theme=github-dark-blue&hide_border=true&background=0d0d0d&stroke=1a1a1a&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555" width="60%" />
 
 </div>
 
@@ -302,7 +302,7 @@ I operate at the intersection of product intuition and engineering discipline �
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=serpo09&theme=github-compact&bg_color=0d0d0d&color=888888&line=ffffff&point=ffffff&area=true&area_color=1a1a1a&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=serpolama&theme=github-compact&bg_color=0d0d0d&color=888888&line=ffffff&point=ffffff&area=true&area_color=1a1a1a&hide_border=true" width="100%" />
 
 </div>
 
@@ -370,7 +370,7 @@ Other        █░░░░░░░░░░░░░░░░░░░░   ~
   <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://github.com/serpo09">
+<a href="https://github.com/serpolama">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
