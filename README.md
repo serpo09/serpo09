@@ -1,9 +1,60 @@
-- 👋 Hi, I’m Serpo Lama and Im a FullStack Web Developer.
-Language that I Know are: Angular, HTML, CSS, Javscript, Jquery, React, MongoDb, Node.js, MySQL, Web3, Solidity, AWS, Firebase Hosting.
-- 👀 I’m interested in Building Wonderfull Friendly Website
-- 📫 How to reach me: Email- serpolama7@gmail.com
+# Hi, I'm Serpo Lama 👋
 
-<!---
-serpo09/serpo09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full Stack Developer with 3+ years of experience building scalable Web2 & Web3 applications.
+
+## 🚀 Tech Stack
+
+### Frontend
+- React.js
+- Next.js
+- Angular
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- GraphQL
+
+### Database
+- MongoDB
+- MySQL
+- PostgreSQL
+
+### Web3
+- Solidity
+- Web3.js
+- NFT Minting
+- Smart Contracts
+
+---
+
+## 💼 Experience
+
+- Built production-ready full stack applications
+- Worked on NFT minting platforms
+- Experience with scalable backend architecture
+- Integrated wallets, blockchain transactions & authentication systems
+
+---
+
+## 🌐 Portfolio
+
+[serpolama.com](https://serpolama.com)
+
+---
+
+## 📫 Connect With Me
+
+- Portfolio: https://serpolama.com
+- LinkedIn: YOUR_LINKEDIN
+- Email: YOUR_EMAIL
+
+---
+
+## ⚡ Current Focus
+
+- Scalable system design
+- AI-integrated applications
+- Web3 infrastructure
+- Performance optimization
