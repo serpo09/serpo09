@@ -47,8 +47,7 @@ Full Stack Developer with 3+ years of experience building scalable Web2 & Web3 a
 ## 📫 Connect With Me
 
 - Portfolio: https://serpolama.com
-- LinkedIn: YOUR_LINKEDIN
-- Email: YOUR_EMAIL
+- Email: serpolama7@gmail.com
 
 ---
 
