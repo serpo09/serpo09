@@ -20,7 +20,7 @@ serpolama.com
   <img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=flat&logo=linkedin&logoColor=white&labelColor=000000" />
 </a>
 &nbsp;
-<a href="mailto:contact@serpolama.com">
+<a href="mailto:serpolama7@gmail.com">
   <img src="https://img.shields.io/badge/Email-Hire%20Me-000000?style=flat&logo=gmail&logoColor=white&labelColor=000000" />
 </a>
 &nbsp;
